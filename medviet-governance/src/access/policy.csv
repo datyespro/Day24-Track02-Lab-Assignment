@@ -4,6 +4,7 @@ p, admin, patient_data, write
 p, admin, patient_data, delete
 p, admin, model_artifacts, read
 p, admin, model_artifacts, write
+p, admin, training_data, read
 
 p, ml_engineer, training_data, read
 p, ml_engineer, model_artifacts, read
